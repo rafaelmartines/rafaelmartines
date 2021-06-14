@@ -12,7 +12,7 @@ Olá, meu nome é Rafael Martines. Tenho 35 anos. Tenho experiência com back-en
 I'm also work with Symfony and Phoenix frameworks.
 
 ### Databases that i know.
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-microsoft%20sql%20server-%23CC2927?logo=microsoftsqlserver&style=for-the-badge"/>
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&style=for-the-badge&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-microsoft%20sql%20server-%23CC2927?logo=microsoftsqlserver&style=for-the-badge"/>
 
 ### How to reach me
 
