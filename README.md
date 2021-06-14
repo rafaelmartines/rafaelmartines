@@ -16,5 +16,5 @@ I'm also work with Symfony and Phoenix frameworks.
 
 ### How to reach me
 
-- :link: https://www.linkedin.com/in/rafael-a-s-martines/
-- :postbox: rafael.martines@gmail.com
+<a href="https://www.linkedin.com/in/rafael-a-s-martines/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge"/></a>
+<a href="mailto:rafael.martines@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white"/></a>
