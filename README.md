@@ -1,10 +1,10 @@
 ### Hi there :wave:
 
-Hi there, my name is Rafael Martines. I'm 37 years old. I'm from Brazil. I have experience with back-end and I love it :heartpulse:
+Hi there, my name is Rafael Martines. I'm from Brazil. I have experience with back-end and I love it :heartpulse:
 
 ### Olá :wave:
 
-Olá, meu nome é Rafael Martines. Tenho 37 anos. Tenho experiência com back-end e eu amo muito. :heartpulse:
+Olá, meu nome é Rafael Martines. Tenho experiência com back-end e eu amo muito. :heartpulse:
 
 ### Languages that I know / Linguagens que conheço
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> ![Static Badge](https://img.shields.io/badge/coldfusion-blue?style=for-the-badge&logo=adobe)
